@@ -1,2 +1,12 @@
+##LISTS
+
 fruits = ["apple", "banana"]
-print(fruits[0])
+print(fruits[0]) 
+
+
+##TUPLE
+a = (1, 2, 3, 4, 5)
+b = (6, 7, 8, 9, 10)
+
+concatenated = a + b
+print(concatenated)
